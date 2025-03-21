@@ -14,7 +14,7 @@ The system consists of three core microservices:
 
 ## **Services & API Endpoints**
 ### **1. Flight Service**  
-📍 Port: `5000`  
+📍 Port: `6000`  
 ✈️ Manages flight routes and details.  
 
 | Method | Endpoint | Description |
@@ -28,7 +28,7 @@ The system consists of three core microservices:
 ---
 
 ### **2. Schedule Service**  
-📍 Port: `5001`  
+📍 Port: `6001`  
 🕒 Manages flight schedules and seat availability.  
 
 | Method | Endpoint | Description |
@@ -40,7 +40,7 @@ The system consists of three core microservices:
 ---
 
 ### **3. Ticket Service**  
-📍 Port: `5002`  
+📍 Port: `6002`  
 🎫 Handles passenger ticketing and booking management.  
 
 | Method | Endpoint | Description |
