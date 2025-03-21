@@ -117,15 +117,4 @@ cd microservice_tickets
 ./mvnw spring-boot:run
 ```
 
----
-
-## **Contributing** 🤝
-Contributions are welcome! If you find a bug or want to improve the system, feel free to submit a pull request or raise an issue.
-
-## **License** 📜
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
----
-
-Happy Coding! ✨
 
