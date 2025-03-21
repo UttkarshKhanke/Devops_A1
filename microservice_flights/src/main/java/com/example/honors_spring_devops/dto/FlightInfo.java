@@ -10,10 +10,9 @@ import lombok.NoArgsConstructor;
 @AllArgsConstructor // Required for Jackson deserialization
 @NoArgsConstructor
 public class FlightInfo {
+    private String id;
+    private String flightNumber;
     private String departure;
     private String destination;
     private String departureTime;
-    private String flightNumber;
-    private String id;
-
 }

@@ -11,15 +11,13 @@ public class FlightInfoRepository {
     Map<String, FlightInfo> flightInfoMap;
 
     @PostConstruct
-    public List<FlightInfo> getAllFlights() {
-        return new ArrayList<>(flightInfoMap.values());
-    }
-
     public void init() {
         flightInfoMap = new HashMap<>();
     }
 
-
+    public List<FlightInfo> getAllFlights() {
+        return new ArrayList<>(flightInfoMap.values());
+    }
 
     public FlightInfo createFlight(FlightInfo flightInfo) {
         String flightId = UUID.randomUUID().toString();
@@ -28,11 +26,11 @@ public class FlightInfoRepository {
         return flightWithId; // Return the stored user
     }
 
-    public void deleteFlightById(String id) {
-        flightInfoMap.remove(id);
-    }
     public FlightInfo getFlightById(String id) {
         return flightInfoMap.get(id);
     }
 
+    public void deleteFlightById(String id) {
+        flightInfoMap.remove(id);
+    }
 }
