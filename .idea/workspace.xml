@@ -5,13 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e51df970-42d0-4c6f-8af6-767c40a3b99e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice_flights/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/microservice_flights/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice_flights/src/main/java/com/example/honors_spring_devops/dto/FlightInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservice_flights/src/main/java/com/example/honors_spring_devops/dto/FlightInfo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice_flights/src/main/java/com/example/honors_spring_devops/repository/FlightInfoRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservice_flights/src/main/java/com/example/honors_spring_devops/repository/FlightInfoRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice_tickets/src/main/java/com/example/honors_spring_devops/dto/TicketInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservice_tickets/src/main/java/com/example/honors_spring_devops/dto/TicketInfo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice_tickets/src/main/java/com/example/honors_spring_devops/services/TicketService.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservice_tickets/src/main/java/com/example/honors_spring_devops/services/TicketService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,26 +27,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.HonorsSpringDevopsApplication.executor&quot;: &quot;Run&quot;,
-    &quot;Maven.honors_spring_devops [clean,install...].executor&quot;: &quot;Debug&quot;,
-    &quot;Maven.honors_spring_devops [clean,install].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.honors_spring_devops [clean].executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/RCOEM/SEM6/6_sem_honors/A1&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.repository.indices&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.HonorsSpringDevopsApplication.executor": "Run",
+    "Maven.honors_spring_devops [clean,install...].executor": "Debug",
+    "Maven.honors_spring_devops [clean,install].executor": "Run",
+    "Maven.honors_spring_devops [clean].executor": "Run",
+    "Maven.honors_spring_devops [package].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/RCOEM/SEM6/6_sem_honors/A1/microservice_flights",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "MavenSettings"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\RCOEM\SEM6\6_sem_honors\A1\microservice_flights" />
+      <recent name="D:\RCOEM\SEM6\6_sem_honors\A1" />
       <recent name="D:\RCOEM\SEM6\6_sem_honors\A1\microservice_tickets\src\main\java\com.example.honors_spring_devops" />
     </key>
   </component>

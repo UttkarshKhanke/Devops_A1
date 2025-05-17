@@ -1,18 +1,16 @@
 package com.example.honors_spring_devops.dto;
 
-import lombok.AllArgsConstructor;
-import lombok.Builder;
-import lombok.Data;
-import lombok.NoArgsConstructor;
+import lombok.*;
 
 @Data
 @Builder (toBuilder = true)
 @AllArgsConstructor // Required for Jackson deserialization
 @NoArgsConstructor
+@Getter
 public class FlightInfo {
-    private String id;
-    private String flightNumber;
-    private String departure;
-    private String destination;
-    private String departureTime;
+    public String id;
+    public String flightNumber;
+    public String departure;
+    public String destination;
+    public String departureTime;
 }
